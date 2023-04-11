@@ -4,7 +4,7 @@ import banner from '../../assets/All Images/P3OLGJ1 copy 1.png'
 const Banner = () => {
     return (
         <div>
-            <div class="card mb-3 border border-white m-5" >
+            <div class="card mb-3 border border-white m-5 bg-secondary bg-opacity-25" >
   <div class="row g-0">
     <div class="col-md-8">
       <div class="card-body ms-5">
