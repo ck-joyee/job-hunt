@@ -1,14 +1,27 @@
+import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import "./App.css";
-import Banner from "./Components/Pages/Banner/Banner";
-import Category from "./Components/Pages/Category/Category";
-import Header from "./Components/Shared/Header/Header";
+import Home from "./Components/Pages/Home";
+import Main from "./Components/Layout/Main";
+import Allfeatured from "./Components/Pages/Featured/Allfeatured";
 
 function App() {
+  const router = createBrowserRouter([
+    {
+      path: '/',
+      element:<Main/>,
+    },
+    {
+      path: '/allfeatured',
+      element:<Allfeatured/>,
+    },
+       {
+        path: "home",
+        element:<Home/>,
+      },
+    ]);
   return (
-    <div>
-      <Header />
-      <Banner />
-      <Category/>
+    <div className="App">
+       <RouterProvider router={router} />
     </div>
   );
 }

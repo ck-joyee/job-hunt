@@ -1,0 +1,112 @@
+
+ [
+    {
+      "id": 1,
+      "company_logo": "../public/assets/Logo/google-1-1 1-1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Acme Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Anywhere",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$120,000 - $150,000",
+      "job_description": "We're looking for a talented software engineer to help us develop new features and maintain our existing web application. You'll work with a team of experienced engineers to build scalable, performant software that delivers value to our users.",
+      "job_responsibility": "• Develop new features and maintain existing ones.\n• Write clean, maintainable code.\n• Work with the product team to define requirements and priorities.\n• Collaborate with other engineers to design and implement solutions.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "5+ years of experience in software engineering",
+      "contact_information": {
+        "phone": "555-555-1234",
+        "email": "jobs@acmeinc.com"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://example.com/company2-logo.png",
+      "job_title": "Marketing Manager",
+      "company_name": "Global Marketing Co.",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "We're seeking a talented marketing manager to develop and execute marketing campaigns for our global clients. You'll work closely with our sales and creative teams to develop strategies that drive results.",
+      "job_responsibility": "• Develop and execute marketing campaigns.\n• Analyze campaign performance and adjust strategies as needed.\n• Collaborate with sales and creative teams to develop effective campaigns.\n• Manage social media channels and create content.",
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "5+ years of experience in marketing",
+      "contact_information": {
+        "phone": "555-555-5678",
+        "email": "jobs@globalmarketingco.com"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://example.com/company3-logo.png",
+      "job_title": "Product Designer",
+      "company_name": "Innovate Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Anywhere",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$90,000 - $110,000",
+      "job_description": "We're seeking a skilled product designer to help us develop beautiful and intuitive user interfaces. You'll work closely with our product and engineering teams to define user requirements and create designs that meet their needs.",
+      "job_responsibility": "• Create user-centered designs.\n• Conduct user research and usability testing.\n• Collaborate with product and engineering teams to define user requirements.\n• Create high-fidelity mockups and prototypes.",
+      "educational_requirements": "Bachelor's degree in Design or related field",
+      "experiences": "3+ years of experience in product design",
+      "contact_information": {
+        "phone": "555-555-9012",
+        "email": "jobs@innovateinc.com"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://example.com/company4-logo.png",
+      "job_title": "Data Scientist",
+      "company_name": "Data Analytics Co.",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$120,000 - $140,000",
+      "job_description": "We're seeking a talented data scientist to help us analyze and interpret complex data sets. You'll work with our product and engineering teams to develop data-driven insights that drive business decisions.",
+      "job_responsibility": "• Analyze and interpret complex data sets.\n• Develop predictive models and algorithms.\n• Collaborate with product and engineering teams to develop data-driven insights.\n• Communicate findings to stakeholders.",
+      "educational_requirements": "Master's or PhD in Data Science or related field",
+      "experiences": "5+ years of experience in data science",
+      "contact_information": {
+        "phone": "555-555-3456",
+        "email": "jobs@dataanalyticsco.com"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "https://example.com/company5-logo.png",
+      "job_title": "Account Manager",
+      "company_name": "Sales Solutions Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "Chicago, IL",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$70,000 - $90,000",
+      "job_description": "We're seeking an experienced account manager to manage relationships with our clients and drive revenue growth. You'll work with our sales and support teams to ensure customer satisfaction and identify new opportunities for business.",
+      "job_responsibility": "• Manage relationships with clients.\n• Identify new business opportunities.\n• Work with sales and support teams to ensure customer satisfaction.\n• Meet revenue targets.",
+      "educational_requirements": "Bachelor's degree in Business or related field",
+      "experiences": "3+ years of experience in account management or sales",
+      "contact_information": {
+        "phone": "555-555-7890",
+        "email": "jobs@salessolutionsinc.com"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "https://example.com/company6-logo.png",
+      "job_title": "UX Researcher",
+      "company_name": "Design Studio LLC",
+      "remote_or_onsite": "Onsite",
+      "location": "Austin, TX",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "We're seeking a talented UX researcher to help us understand user needs and behaviors. You'll work with our product and design teams to develop insights that inform the design and development of our products.",
+      "job_responsibility": "• Conduct user research studies.\n• Analyze and interpret research findings.\n• Work with product and design teams to develop insights that inform product design.\n• Communicate findings to stakeholders.",
+      "educational_requirements": "Bachelor's or Master's degree in Human-Computer Interaction, Psychology, or related field",
+      "experiences": "3+ years of experience in UX research",
+      "contact_information": {
+        "phone": "555-555-2345",
+        "email": "jobs@designstudiollc.com"
+      }
+    }
+
+    ]
