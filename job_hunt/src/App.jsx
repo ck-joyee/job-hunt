@@ -1,35 +1,29 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from 'react';
+import Navbar from './components/Navbar';
+import Banner from './components/Banner';
+import Category from './components/Category';
 
-function App() {
-  const [count, setCount] = useState(0)
+import FeaturedJobs from './components/FeaturedJobs';
 
-  return (
-    <div className="App">
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </div>
-  )
-}
+const App = () => (
+  <div className=" overflow-hidden mr-5 ml-5">
+         {/* <div className="bg-indigo-50 w-[100%]  overflow-hidden">
+            <Navbar/>
+         </div> */}
+         <div className='flex justify-center items-start'>
+             <div className='xl:max-w-[1280px] w-full'>
+              <Banner/>
+             </div>
 
-export default App
+         </div>
+         <div className='ml-11'>
+           <Category/>
+         </div>
+         <FeaturedJobs/>
+  
+
+  </div>
+  );
+
+
+export default App;

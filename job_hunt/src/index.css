@@ -108,7 +108,7 @@
 }
 
 .feature-card:hover {
-  background: var(--black-gradient);
+  background: var(--white-gradient);
   box-shadow: var(--card-shadow);
 }
 

@@ -8,11 +8,11 @@
     "location": "Dhaka, Bangladesh",
     "salary_icon": "/assets/Icons/Frame.png",
     "salary": "Salary : 100K - 150K",
-    "description": "A Technical Database Engineer is responsible for designing, implementing, and maintaining databases used by organizations. They are skilled in programming languages such as SQL, Python, and Java and have a strong understanding of database management systems such as MySQL, Oracle, and MongoDB.",
+    "description": "An organization's databases are designed, implemented, and maintained by a technical database engineer. They are proficient in a variety of programming languages, including SQL, Python, and Java, and they have a thorough understanding of MySQL, Oracle, and MongoDB.",
     "responsibility": "Designing and implementing database systems: This involves working with stakeholders to understand their requirements, creating the database schema, selecting an appropriate database management system, and setting up the database server.",
     "education": "Bachelor degree to complete any reputational university.",
     "experiences": "2-3 years",
-    "phone": "90894324",
+    "phone": "5326749",
     "email": "potter@gmail.com"
   },
   {
@@ -23,13 +23,13 @@
     "location_icon": "/assets/Icons/LocationIcon.png",
     "location": "Dhaka, Bangladesh",
     "salary_icon": "/assets/Icons/Frame.png",
-    "salary": "Salary : 110K - 132K",
-    "description": "Senior Product Designer is responsible for leading the design of digital products, such as websites, mobile applications, and software. They work closely with cross-functional teams including product managers, engineers, and stakeholders to understand business needs and user requirements, and then use that information to create user-centered designs that meet business goals.",
+    "salary": "Salary : 110K - 140K",
+    "description": "Leading the design of digital products including websites, mobile applications, and software is the responsibility of the senior product designer. In order to understand business needs and user requirements and to provide user-centered designs that achieve business objectives, they closely collaborate with cross-functional teams made up of product managers, engineers, and stakeholders.",
     "responsibility": "Leading the design process: This involves setting the design direction, defining design goals, and creating design plans for the project. The Senior Product Designer is responsible for ensuring that the design is aligned with the overall business strategy and objectives.",
     "education": "Bachelor degree to complete any university.",
-    "experiences": "1-4 years",
-    "phone": "034658295",
-    "email": " lunalovegood@gmail.com"
+    "experiences": "1-2 years",
+    "phone": "013425125",
+    "email": "lunalovegood@gmail.com"
   },
   {
     "id": 3,
@@ -40,11 +40,11 @@
     "location": "Sylhet, Bangladesh",
     "salary_icon": "/assets/Icons/Frame.png",
     "salary": "Salary : 120K - 150K",
-    "description": "A software engineer is responsible for designing, developing, and maintaining software applications. They work with teams of developers, product managers, and designers to create software solutions that meet business requirements and user needs.",
+    "description": "Software application design, development, and maintenance are the duties of a software engineer. To develop software solutions that satisfy user needs and business goals, they collaborate with teams of developers, product managers, and designers.",
     "responsibility": "Designing software architecture: This involves creating the overall structure of the software application, determining which programming languages and technologies to use, and ensuring the system is scalable and maintainable.",
     "education": "Bachelor degree to complete any  university.",
     "experiences": "3-4 years",
-    "phone": "7634277i",
+    "phone": "12457998",
     "email": "ronaldwisly@gmail.com"
   },
   {
@@ -56,11 +56,11 @@
     "location": "Dhaka, Bangladesh",
     "salary_icon": "/assets/Icons/Frame.png",
     "salary": "Salary : 140K - 150K",
-    "description": "A Technical Database Engineer is responsible for designing, implementing, and maintaining databases used by organizations. They are skilled in programming languages such as SQL, Python, and Java and have a strong understanding of database management systems such as MySQL, Oracle, and MongoDB.",
+    "description": "An organization's databases are designed, implemented, and maintained by a technical database engineer. They are proficient in a variety of programming languages, including SQL, Python, and Java, and they have a thorough understanding of MySQL, Oracle, and MongoDB.",
     "responsibility": "Designing and implementing database systems: This involves working with stakeholders to understand their requirements, creating the database schema, selecting an appropriate database management system, and setting up the database server.",
     "education": "Bachelor degree to complete any university.",
     "experiences": "4-5 years",
-    "phone": "034257658",
+    "phone": "010753526",
     "email": "granger@gmail.com"
   }
 ]
